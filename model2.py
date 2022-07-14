@@ -30,7 +30,7 @@ normalize_data2 = (data - data.mean()).divide(data.max() - data.min())
 # we are going to choose normalizing by max (easier to use later on when we get user input)
 data = normalize_data0
 
-# multivariant linear regression model
+# multivariate linear regression model
 
 x_train = data[["age", "bmi", "children", "smoker"]]
 y_train = data["charges"]
