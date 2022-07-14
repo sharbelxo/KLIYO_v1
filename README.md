@@ -20,3 +20,5 @@ As you can see, you send !help in the chat to check out what KLIYO has to offer.
 
 Moreover, below you can see the !test option of KLIYO where users can try out the Machine Learning Model they want!  
 
+![2](https://user-images.githubusercontent.com/72712113/178665088-fd6f72bd-fac9-4188-b4e8-edff4275a277.png)  
+
