@@ -3,7 +3,7 @@ import numpy as np
 import math
 
 # cleaning dataset
-df = pd.read_csv(r"C:\Users\Sharbel\VSCode\Discord\datasets\StudentsPerformance.csv")
+df = pd.read_csv(r"DATASET_LOCATION")
 df = df[["math score","reading score"]]
 df.rename(columns = {"math score" : "Exam 1", "reading score" : "Exam 2"}, inplace = True)
 df["Admission"] = 0
