@@ -4,7 +4,7 @@ import copy, math
 
 # preparing and cleaning data for the model to use
 
-data = pd.read_csv(r"C:\Users\Sharbel\VSCode\Discord\datasets\insurance.csv")
+data = pd.read_csv(r"DATASET_LOCATION")
 rows = data.shape[0]
 columns = data.shape[1]
 max_age = float(data["age"].max())
