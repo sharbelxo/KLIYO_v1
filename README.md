@@ -7,8 +7,8 @@
 KLIYO allows users to:
 
 * Greet KLIYO (say hi!)
-* Learn about different Machine Learning Models (Linear Regression, Logstic Regression) and how they are implemented using real-life problems!
-* Interact with the models by giving them input and checking out their unique outputs!  
+* Learn about different Machine Learning Models (Linear Regression, Logistic Regression) and how they are implemented as solutions to real-life problems!
+* Interact with the models by giving them inputs and checking out their unique outputs!  
 
 ## TRY KLIYO RIGHT NOW :space_invader:! 
 
