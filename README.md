@@ -10,7 +10,7 @@ KLIYO allows users to:
 * Learn about different Machine Learning Models (Linear Regression, Logstic Regression) and how they are implemented using real-life problems!
 * Interact with the models by giving them input and checking out their unique outputs!  
 
-## TRY KLIYO RIGHT NOW!  
+## TRY KLIYO RIGHT NOW :robot:! 
 
 Add KLIYO to your server using the link below:  
 
