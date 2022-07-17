@@ -2,7 +2,7 @@
 
 *This is KLIYO 1.0 which is the Pre-Release version of KLIYO*
 
-**KLIYO** is a Discord Bot that lets server visitors explore a Machine Learning Playground created by **Sharbel**. KLIYO is a Discord Bot that allows users to experience Machine Learning in its different models and uses. 
+**KLIYO** is a Discord Bot that allows server visitors to explore a Machine Learning Playground created by **Sharbel**. KLIYO is a Discord Bot that allows users to experience Machine Learning in its different models and uses. 
 
 KLIYO allows users to:
 
