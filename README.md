@@ -1,16 +1,14 @@
-# K L I Y O
+# K L I Y O  
+
+*This is KLIYO 1.0 which is the Pre-Release version of KLIYO*
 
 KLIYO is a Discord Bot that lets server visitors explore a Machine Learning Playground created by Sharbel. KLIYO is a Discord Bot that allows users to experience Machine Learning in its different models and uses. 
 
 KLIYO allows users to:
 
-1- Choose to be part of the ongoing NLP-based chat in which the visitors can talk to the bot and enjoy its commands.
-
-OR 
-
-2- Choose to explore and test the different Machine Learning Models and implementations that resemble Sharbel's ML projects.
-
-KLIYO is pre-released only with option (2) ! However, KLIYO v1.0.0 will contain option (1), as well as new user-friendly and updated commands!
+* Greet KLIYO (say hi!)
+* Learn about different Machine Learning Models (Linear Regression, Logstic Regression) and how they are implemented using real-life problems!
+* Interact with the models by giving them input and checking out their unique outputs!
 
 ### KLIYO In Action!  
 
