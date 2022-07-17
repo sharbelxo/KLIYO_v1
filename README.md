@@ -8,7 +8,15 @@ KLIYO allows users to:
 
 * Greet KLIYO (say hi!)
 * Learn about different Machine Learning Models (Linear Regression, Logstic Regression) and how they are implemented using real-life problems!
-* Interact with the models by giving them input and checking out their unique outputs!
+* Interact with the models by giving them input and checking out their unique outputs!  
+
+## TRY KLIYO RIGHT NOW!  
+
+Add KLIYO to your server using the link below:  
+
+https://discord.com/api/oauth2/authorize?client_id=990159294357975121&permissions=534723947584&scope=bot
+
+##
 
 ### KLIYO In Action!  
 
